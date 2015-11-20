@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Parisienne);
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
 
 .col-md-1 {
   border-left: 1px solid black;
@@ -8,4 +9,8 @@
 
 #h1 {
 font-family: 'Parisienne', cursive;
+}
+
+#navbar {
+font-family: 'Amatic SC', cursive;
 }
