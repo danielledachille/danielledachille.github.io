@@ -11,6 +11,6 @@
 font-family: 'Parisienne', cursive;
 }
 
-#navbar {
+.nav.navbar-collapse {
 font-family: 'Amatic SC', cursive;
 }
