@@ -24,4 +24,5 @@ font-size: 30px;
 .navbar-nav {
 border-style: dotted;
 padding: -10px;
+float:right;
 }
