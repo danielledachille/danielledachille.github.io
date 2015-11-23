@@ -7,16 +7,16 @@
   height: 1080px;
 }
 
-#h1 {
+.h1 {
 font-family: 'Parisienne', cursive;
 }
 
-#h2 {
+.h2 {
 font-family: 'Parisienne', cursive;
 }
 
 .navbar {
 font-family: 'Amatic SC', cursive;
 font-size: 20px;
-border-style: dotted;
+.b3 {border-style:dotted;}
 }
