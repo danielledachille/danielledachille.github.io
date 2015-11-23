@@ -8,16 +8,17 @@
 }
 
 #h1 {
-font-family: 'Parisienne', cursive!important;
+font-family: 'Parisienne', cursive;
 }
 
 #h2 {
-font-family: 'Parisienne', cursive!important;
+font-family: 'Parisienne', cursive;
 }
 
 .navbar {
 font-family: 'Amatic SC', cursive;
 font-size: 20px;
+border-style: dotted;
 }
 
 .ul.nav.navbar-nav {
