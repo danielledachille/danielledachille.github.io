@@ -7,10 +7,10 @@
   height: 1080px;
 }
 
-#h1 {
+.page.title {
 font-family: 'Parisienne', cursive;
 }
 
-.nav.navbar-collapse {
+.navbar {
 font-family: 'Amatic SC', cursive;
 }
