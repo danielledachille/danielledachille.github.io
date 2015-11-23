@@ -7,7 +7,15 @@
   height: 1080px;
 }
 
+.title {
+font-family: 'Parisienne', cursive;
+}
+
 .h1 {
+font-family: 'Parisienne', cursive;
+}
+
+.h2 {
 font-family: 'Parisienne', cursive;
 }
 
