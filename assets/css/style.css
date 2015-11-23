@@ -22,6 +22,6 @@ font-size: 20px;
 
 .navbar-nav {
 border-style: dotted;
-padding-top: -5px;
-padding-bottom: -2px;
+margin-top: auto;
+margin-bottom: -2px;
 }
