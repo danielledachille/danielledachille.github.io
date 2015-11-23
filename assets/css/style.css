@@ -8,15 +8,15 @@
 }
 
 .h1 {
-font-family: 'Parisienne', cursive;
+font-family: 'Parisienne', cursive!important;
 }
 
 .h2 {
-font-family: 'Parisienne', cursive;
+font-family: 'Parisienne', cursive!important;
 }
 
 .navbar {
 font-family: 'Amatic SC', cursive;
 font-size: 20px;
-.b3 {border-style:dotted;}
+border-style: dotted;
 }
