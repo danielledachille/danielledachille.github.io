@@ -15,8 +15,9 @@ right: 50px;
 
 h2 {
 font-family: 'Parisienne', cursive;
+font-weight: bold;
 position:relative;
-bottom: 100px;
+bottom: 20px;
 }
 
 .navbar {
@@ -27,8 +28,8 @@ font-size: 30px;
 .navbar-nav {
 border: 5px black dotted;
 padding: -3px;
-width: 350px;
-margin: 50px;
+width: 300px;
+margin: 30px;
 position: relative;
 left: 400px;
 }
