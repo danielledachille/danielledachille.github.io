@@ -17,7 +17,7 @@ h2 {
 font-family: 'Parisienne', cursive;
 font-weight: bold;
 position:relative;
-bottom: 15px;
+bottom: 18px;
 }
 
 .navbar {
@@ -27,9 +27,9 @@ font-size: 30px;
 
 .navbar-nav {
 border: 5px black dotted;
-padding: -3px;
+padding: -30px;
 width: 290px;
-margin: 10px;
+margin: -10px;
 position: relative;
 left: 400px;
 }
