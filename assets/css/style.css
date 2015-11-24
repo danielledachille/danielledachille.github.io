@@ -37,3 +37,7 @@ margin: -10px;
 position: relative;
 left: 410px;
 }
+
+div.row {
+left: 200px;
+}
