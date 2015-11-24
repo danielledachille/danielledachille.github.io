@@ -21,14 +21,12 @@ font-family: 'Parisienne', cursive;
 font-weight: bold;
 position:relative;
 bottom: 45px;
-hover: 9933FF;
 }
 
 .navbar {
 font-family: 'Amatic SC', cursive;
 font-size: 30px;
 position: center;
-hover color: 9933FF;
 }
 
 .navbar-nav {
