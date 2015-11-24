@@ -25,10 +25,10 @@ font-size: 30px;
 }
 
 .navbar-nav {
-border: 1px black dotted;
+border: 5px black dotted;
 padding: -3px;
-width: 40px;
-margin: 40px;
+width: 100px;
+margin: 100px;
 position: relative;
-left: 300px;
+left: 400px;
 }
