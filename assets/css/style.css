@@ -23,7 +23,9 @@ font-size: 30px;
 }
 
 .navbar-nav {
-border-style: dotted;
-padding: -50px;
+border: 1px black dotted;
+padding: -30px;
 right: 100px;
+width: 10px;
+margin: 10px;
 }
