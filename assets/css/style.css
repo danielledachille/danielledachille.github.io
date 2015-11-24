@@ -13,13 +13,14 @@ font-size: 100px;
 right: 50px;
 position: relative;
 left: 200px;
+top: 10px;
 }
 
 h2 {
 font-family: 'Parisienne', cursive;
 font-weight: bold;
 position:relative;
-bottom: 30px;
+bottom: 40px;
 }
 
 .navbar {
