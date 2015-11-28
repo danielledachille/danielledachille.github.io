@@ -37,3 +37,8 @@ margin: -10px;
 position: relative;
 left: 410px;
 }
+
+div.col-md-4 {
+  position: relative;
+  left: 200px;
+}
