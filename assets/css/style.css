@@ -1,6 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Parisienne);
 @import url(https://fonts.googleapis.com/css?family=Amatic+SC);
 
+body {
+background-color: darkgray;
+}
+
 .col-md-1 {
   border-left: 1px solid black;
   border-right: 1px solid black;
