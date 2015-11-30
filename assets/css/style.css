@@ -5,6 +5,10 @@ body {
 background-color: gray;
 }
 
+a {
+  color: purple;
+}
+
 .col-md-1 {
   border-left: 1px solid black;
   border-right: 1px solid black;
@@ -26,14 +30,12 @@ font-family: 'Parisienne', cursive;
 font-weight: bold;
 position:relative;
 bottom: 45px;
-hover-color: purple;
 }
 
 .navbar {
 font-family: 'Amatic SC', cursive;
 font-size: 30px;
 position: center;
-hover-color: purple;
 }
 
 .navbar-nav {
