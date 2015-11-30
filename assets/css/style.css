@@ -2,9 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Amatic+SC);
 
 body {
-    background-image: url("backg.jpeg");
-    background-repeat: repeat;
-    background-position: right top;
+    background-color: darkgrey;
 }
 
 a {
