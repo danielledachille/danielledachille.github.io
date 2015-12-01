@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Parisienne);
 @import url(https://fonts.googleapis.com/css?family=Amatic+SC);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display);
 
 body {
     background-color: darkgrey;
@@ -33,7 +34,7 @@ bottom: 45px;
 }
 
 .navbar {
-font-family: 'Amatic SC', cursive;
+font-family: 'Playfair Display', serif;
 font-size: 30px;
 position: center;
 }
