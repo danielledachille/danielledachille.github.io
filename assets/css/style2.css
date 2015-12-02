@@ -26,3 +26,18 @@ h2 {
 div.col-md-6 {
   top: 60px;
 }
+
+.navbar {
+font-family: 'Playfair Display', serif;
+font-size: 20px;
+}
+
+.navbar-nav {
+color: white;
+padding: -30px;
+width: 590px;
+margin: -10px;
+position: relative;
+left: 390px;
+top: -15px;
+}
