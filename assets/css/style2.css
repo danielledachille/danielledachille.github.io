@@ -30,7 +30,11 @@ h2 {
 div.col-md-6 {
   top: -10px;
   position: relative;
-  left: 170px;
+  left: 190px;
+}
+
+div.col-md-3 {
+  left: 100px;
 }
 
 .navbar {
