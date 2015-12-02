@@ -22,7 +22,6 @@ font-size: 100px;
 right: 50px;
 position: relative;
 left: 240px;
-top: 5px;
 }
 
 h2 {
@@ -45,10 +44,10 @@ width: 590px;
 margin: -10px;
 position: relative;
 left: 380px;
-top: 10px;
 }
 
 div.col-md-4 {
   position: relative;
   left: 160px;
+  top: 5px;
 }
