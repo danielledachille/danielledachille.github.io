@@ -1,0 +1,52 @@
+@import url(https://fonts.googleapis.com/css?family=Parisienne);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display);
+
+body {
+    background-color: darkgrey;
+    font-family: 'Playfair Display', serif;
+    font-size: 15px;
+}
+
+a {
+  color: purple;
+}
+
+h1 {
+  color: white;
+  font-family: 'Parisienne', cursive;
+  font-size: 100px;
+  left: 200px;
+  position: relative;
+  top: -10px;
+}
+
+h2 {
+  color: white;
+  font-family: 'Parisienne', cursive;
+  font-size: 30px;
+}
+
+div.col-md-6 {
+  top: -30px;
+  position: relative;
+  left: 250px;
+}
+
+div.col-md-3 {
+  left: 200px;
+}
+
+.navbar {
+font-family: 'Playfair Display', serif;
+font-size: 30px;
+}
+
+.navbar-nav {
+color: white;
+padding: -30px;
+width: 590px;
+margin: -10px;
+position: relative;
+left: 390px;
+top: -15px;
+}
