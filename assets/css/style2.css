@@ -15,7 +15,7 @@ h1 {
   color: white;
   font-family: 'Parisienne', cursive;
   font-size: 100px;
-  right: 50px;
+  right: 20px;
   position: relative;
   top: -10px;
 }
@@ -27,7 +27,7 @@ h2 {
 }
 
 div.col-md-6 {
-  top: -10px;
+  top: -20px;
   position: relative;
   left: 210px;
 }
