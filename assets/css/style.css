@@ -29,7 +29,7 @@ h2 {
 font-family: 'Parisienne', cursive;
 font-weight: bold;
 position:relative;
-bottom: 45px;
+bottom: 55px;
 }
 
 .navbar {
@@ -51,5 +51,5 @@ top: -15px;
 div.col-md-4 {
   position: relative;
   left: 170px;
-  bottom: 25px;
+  bottom: 35px;
 }
