@@ -22,3 +22,8 @@ h2 {
   font-family: 'Parisienne', cursive;
   font-size: 30px;
 }
+
+div.col-md-6 {
+  position: fixed;
+  bottom: 20px;
+}
