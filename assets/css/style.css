@@ -21,7 +21,7 @@ font-family: 'Parisienne', cursive;
 font-size: 100px;
 right: 50px;
 position: relative;
-left: 210px;
+left: 220px;
 top: 15px;
 }
 
@@ -50,5 +50,5 @@ top: 10px;
 
 div.col-md-4 {
   position: relative;
-  left: 150px;
+  left: 160px;
 }
