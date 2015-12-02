@@ -1,9 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Parisienne);
-@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display);
 
 body {
-    background-color: darkgrey;
+    background-image: url("backg.jpg");
 }
 
 a {
@@ -45,7 +44,7 @@ padding: -30px;
 width: 590px;
 margin: -10px;
 position: relative;
-left: 370px;
+left: 380px;
 top: 10px;
 }
 
