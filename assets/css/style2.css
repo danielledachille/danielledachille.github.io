@@ -28,10 +28,9 @@ h2 {
 }
 
 div.col-md-6 {
-  top: 60px;
+  top: -10px;
   position: relative;
   left: 170px;
-  bottom: 35px;
 }
 
 .navbar {
