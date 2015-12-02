@@ -21,7 +21,7 @@ font-family: 'Parisienne', cursive;
 font-size: 100px;
 right: 50px;
 position: relative;
-left: 240px;
+left: 230px;
 top: -10px;
 }
 
@@ -29,13 +29,12 @@ h2 {
 font-family: 'Parisienne', cursive;
 font-weight: bold;
 position:relative;
-bottom: 55px;
+bottom: 50px;
 }
 
 .navbar {
 font-family: 'Playfair Display', serif;
 font-size: 30px;
-position: center;
 }
 
 .navbar-nav {
@@ -44,7 +43,7 @@ padding: -30px;
 width: 590px;
 margin: -10px;
 position: relative;
-left: 380px;
+left: 390px;
 top: -15px;
 }
 
