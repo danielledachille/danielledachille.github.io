@@ -6,7 +6,7 @@ body {
 }
 
 a {
-  color: darkgrey;
+  color: purple;
 }
 
 .col-md-1 {
@@ -16,7 +16,7 @@ a {
 }
 
 h1 {
-color: white;
+color: black;
 font-family: 'Parisienne', cursive;
 font-size: 100px;
 right: 50px;
