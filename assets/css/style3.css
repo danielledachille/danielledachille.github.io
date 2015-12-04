@@ -2,7 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display);
 
 body {
-    background-image: url("../../backg.jpg") ;
+    background-image: url("../../try4.jpg") ;
     font-family: 'Playfair Display', serif;
     font-size: 15px;
 }
@@ -34,6 +34,7 @@ div.col-md-6 {
 
 div.col-md-3 {
   left: 200px;
+  color: white;
 }
 
 .navbar {
