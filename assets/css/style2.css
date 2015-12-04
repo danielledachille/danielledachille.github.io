@@ -5,10 +5,11 @@ body {
     background-image: url("../../backg.jpg") ;
     font-family: 'Playfair Display', serif;
     font-size: 15px;
+    font-color: black;
 }
 
 a {
-  color: purple;
+  color: darkgrey;
 }
 
 h1 {
