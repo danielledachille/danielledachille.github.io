@@ -24,6 +24,7 @@ h2 {
   color: darkgrey;
   font-family: 'Parisienne', cursive;
   font-size: 30px;
+  top: -10px;
 }
 
 div.col-md-6 {
