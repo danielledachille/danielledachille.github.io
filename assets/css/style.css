@@ -2,7 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display);
 
 body {
-    background-image: url("../../hmm.jpg") ;
+    background-image: url("../../test.jpg") ;
 }
 
 a {
@@ -38,7 +38,7 @@ font-size: 30px;
 }
 
 .navbar-nav {
-background-image: url(../../test.jpg);
+background-color: darkgrey;
 padding: -30px;
 width: 400px;
 margin: -10px;
