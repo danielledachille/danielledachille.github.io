@@ -44,9 +44,9 @@ font-size: 30px;
 }
 
 .navbar-nav {
-color: white;
+color: lightgrey;
 padding: -30px;
-width: 590px;
+width: 400px;
 margin: -10px;
 position: relative;
 left: 390px;

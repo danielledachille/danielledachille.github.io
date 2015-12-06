@@ -39,12 +39,13 @@ font-size: 30px;
 
 .navbar-nav {
 background-color: lightgrey;
+border: 1px black;
 padding: -30px;
 width: 400px;
 margin: -10px;
 position: relative;
 left: 390px;
-top: -15px;
+top: -10px;
 }
 
 div.col-md-4 {
