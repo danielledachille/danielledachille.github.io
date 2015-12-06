@@ -38,7 +38,8 @@ font-size: 30px;
 }
 
 .navbar-nav {
-background-color: darkgrey;
+background-color: white;
+border: 5px white dotted;
 padding: -30px;
 width: 400px;
 margin: -10px;
