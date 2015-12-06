@@ -39,6 +39,7 @@ font-size: 30px;
 
 .navbar-nav {
 background-color: white;
+background-blend-mode: luminosity;
 padding: -30px;
 width: 400px;
 margin: -10px;
