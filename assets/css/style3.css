@@ -35,6 +35,7 @@ div.col-md-6 {
 div.col-md-3 {
   left: 200px;
   background-color: white;
+  border: 1px solid black;
 }
 
 .navbar {
@@ -49,5 +50,4 @@ width: 400px;
 margin: -10px;
 position: relative;
 left: 390px;
-top: -15px;
 }
