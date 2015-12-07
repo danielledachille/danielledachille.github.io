@@ -30,12 +30,14 @@ div.col-md-6 {
   top: -30px;
   position: relative;
   left: 240px;
+  bottom: 15px;
 }
 
 div.col-md-3 {
   left: 200px;
   background-color: white;
-  border: 1px solid black;
+  border: 1px solid lightgrey;
+  bottom: 15px;
 }
 
 .navbar {
